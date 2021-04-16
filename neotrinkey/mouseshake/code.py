@@ -21,7 +21,7 @@ NONE = (0,0,0)
 BLUE = (0,0,255)
 YELLOW = (255,255,0)
 
-max_shake_minutes = 1
+max_shake_minutes = 240
 move_distance = 100
 mouse_pause = .5
 loop_sleep = .5
